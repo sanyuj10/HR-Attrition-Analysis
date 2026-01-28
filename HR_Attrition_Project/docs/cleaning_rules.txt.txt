@@ -1,0 +1,6 @@
+CLEANING RULES
+1. Remove columns: EmployeeCount, EmployeeNumber, Over18, StandardHours
+2. Convert Attrition (Yes/No) to Attrition_Flag (1/0)
+3. Remove original Attrition column
+4. Keep all remaining columns unchanged
+5. Save cleaned file as hr_attrition_clean.csv
